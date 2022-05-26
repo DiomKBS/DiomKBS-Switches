@@ -104,13 +104,13 @@
     )
   )
   (model "${GITREPO}/Diom-75TK/PCB/josh-kicad-lib/packages3d/josh-keyboard/Kailh_Hotswap_MX.step"
-    (offset (xyz -0.6 4.7 -3.5))
+    (offset (xyz -0.5 3 -3.5))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 -180))
+    (rotate (xyz 0 0 0))
   )
-  (model "${GITREPO}/Diom-75TK/PCB/josh-kicad-lib/packages3d/josh-keyboard/mx.STEP"
-    (offset (xyz 0 0 5.5))
+  (model "${GITREPO}/Diom-75TK/Case/3D-parts/asm_mx_asm_PCB.stp"
+    (offset (xyz 0.3 0.3 5.5))
     (scale (xyz 1 1 1))
-    (rotate (xyz -90 0 -180))
+    (rotate (xyz 180 0 90))
   )
 )

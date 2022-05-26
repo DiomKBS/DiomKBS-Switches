@@ -38,4 +38,9 @@
   (pad "2" smd rect (at 2.8 4.07 180) (size 1.6 1.42) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp d0be6b61-b48f-4f2f-9d4a-09dae837ea46))
   (pad "3" smd rect (at -2.8 4.07 180) (size 1.6 1.4) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 9ac0f3be-ec03-4a3a-9b81-40cd6a29498a))
   (pad "4" smd rect (at -2.8 6.07 180) (size 1.6 1.38) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 18087f6d-b26c-4057-8782-8c175b86672f))
+  (model "${GITREPO}/Diom-75TK/Case/3D-parts/LED_SK6812MINI-E v1-mirror.step"
+    (offset (xyz 0 -10.15 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
