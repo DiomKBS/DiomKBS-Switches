@@ -33,4 +33,9 @@
   (pad "1" thru_hole circle (at 2.54 -5.08) (size 2.2 2.2) (drill 1.5) (layers *.Cu *.Mask) (tstamp f65da57c-5a39-4e71-a4f8-1adb60cea20b))
   (pad "2" thru_hole circle (at 3.81 -2.54) (size 2.2 2.2) (drill 1.5) (layers *.Cu *.Mask) (tstamp 4bc286e0-6a16-4d35-a592-670f1762f921))
   (pad "2" thru_hole circle (at -3.81 -2.54) (size 2.2 2.2) (drill 1.5) (layers *.Cu *.Mask) (tstamp 97a1499d-8f21-4661-8bed-0e1e89d0838c))
+  (model "${GITREPO}/Diom-35SP/3dModels/asm_mx_asm_PCB v2.step"
+    (offset (xyz 0.25 0.25 5))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 180 0 90))
+  )
 )
